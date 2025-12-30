@@ -18,4 +18,4 @@ ContextMenuIcons.iconPacks.test.options.world = {
     ["ContextMenu_SleepOnGround"] = aliases.sleepOnGround,
 }
 
-ContextMenuIcons.iconPacksList["test"] = ContextMenuIcons.iconPacks.test
+--ContextMenuIcons.iconPacksList["test"] = ContextMenuIcons.iconPacks.test
