@@ -11,6 +11,10 @@ ContextMenuIcons.iconPacks.simple.options.inventory = {
     ["IGUI_MakeUp"] = aliases.makeUp,
     ["ContextMenu_Drop"] = aliases.drop,
     ["ContextMenu_PutInContainer"] = aliases.putInContainer,
+    ["ContextMenu_DisableAutodrink"] = aliases.disableAutodrink,
+    ["ContextMenu_EnableAutodrink"] = aliases.enableAutodrink,
+    ["ContextMenu_WringClothes"] = aliases.wringClothes,
+    ["ContextMenu_SetAlarm"] = aliases.setAlarm,
 
     ["ContextMenu_RenameBag"] = aliases.rename,
     ["ContextMenu_RenameFood"] = aliases.rename,
@@ -40,8 +44,7 @@ ContextMenuIcons.iconPacks.simple.options.inventory = {
             ["ContextMenu_PlaceAll"] = aliases.placeAll
         }
     },
-
-    
+    ["IGUI_PlaceObject"] = aliases.place,
     
     ["ContextMenu_Eat"] = {
         subOptions = aliases.portionsOptions
@@ -67,10 +70,12 @@ ContextMenuIcons.iconPacks.simple.options.world = {
     ["ContextMenu_Sleep"] = aliases.sleep,
     ["ContextMenu_Rest"] = aliases.rest,
     ["ContextMenu_Wash"] = aliases.wash,
+    ["ContextMenu_Vehicle_Wash"] = aliases.wash,
     ["ContextMenu_Drink"] = aliases.drink,
     ["ContextMenu_StoveSetting"] = aliases.settings,
     ["ContextMenu_DropNamedItem"] = aliases.drop,
     ["ContextMenu_Trade"] = aliases.trade,
+    ["ContextMenu_Medical_Check"] = aliases.medicalCheck,
 
     ["ContextMenu_Fill"] = {
         iconTextureName = aliases.fill,

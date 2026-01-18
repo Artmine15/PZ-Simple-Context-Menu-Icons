@@ -11,8 +11,13 @@ ContextMenuIcons.iconPacks.simple.options.aliases = {
     drop = "Drop.png",
     putInContainer = "PutInContainer.png",
     trade = "Trade.png",
+    medicalCheck = "MedicalCheck.png",
     more = "More.png",
     info = "Info.png",
+    disableAutodrink = "DisableAutodrink.png",
+    enableAutodrink = "EnableAutodrink.png",
+    wringClothes = "WringClothes.png",
+    setAlarm = "SetAlarm.png",
 
     rackWeapon = "Rack.png",
     insertMagazine = "InsertMagazine.png",

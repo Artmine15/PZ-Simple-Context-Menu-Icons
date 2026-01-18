@@ -1,6 +1,6 @@
 id=SimpleContextMenuIcons
 require=\ContextMenuIconsCore
-modversion=1.0.2
+modversion=1.1.0
 versionMin=42.0.0
 name=Simple Context Menu Icons
 description=Many icons for your context menu options! You can color it.
