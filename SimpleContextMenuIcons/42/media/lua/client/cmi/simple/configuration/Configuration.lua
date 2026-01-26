@@ -1,4 +1,4 @@
-require "configurations/simple/Options"
+require "cmi/simple/configuration/Options"
 
 ContextMenuIcons.iconPacks.simple.settings = {
     isColorable = true

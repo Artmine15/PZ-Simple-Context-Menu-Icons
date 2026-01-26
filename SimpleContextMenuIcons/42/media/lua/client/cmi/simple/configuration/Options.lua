@@ -1,4 +1,4 @@
-require "configurations/simple/Aliases"
+require "cmi/simple/configuration/Aliases"
 
 local aliases = ContextMenuIcons.iconPacks.simple.options.aliases
 

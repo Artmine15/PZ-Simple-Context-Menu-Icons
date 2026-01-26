@@ -1,4 +1,4 @@
-require "cmi_simple/Initialization"
+require "cmi/simple/Initialization"
 
 ContextMenuIcons.iconPacks.simple.options.aliases = {
     stub = "Stub.png",

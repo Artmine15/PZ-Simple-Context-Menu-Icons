@@ -1,4 +1,5 @@
-require "cmi_simple/Initialization"
+--[[
+require "cmi/Initialization"
 
 ContextMenuIcons.iconPacks.test.options.aliases = {
     sitOnGround = "32.png",
@@ -18,4 +19,5 @@ ContextMenuIcons.iconPacks.test.options.world = {
     ["ContextMenu_SleepOnGround"] = aliases.sleepOnGround,
 }
 
---ContextMenuIcons.iconPacksList["test"] = ContextMenuIcons.iconPacks.test
+ContextMenuIcons.iconPacksList["test"] = ContextMenuIcons.iconPacks.test
+--]]
