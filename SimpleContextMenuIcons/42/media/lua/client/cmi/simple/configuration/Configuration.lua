@@ -4,4 +4,4 @@ ContextMenuIcons.iconPacks.simple.settings = {
     isColorable = true
 }
 
-ContextMenuIcons.iconPacksList["simple"] = ContextMenuIcons.iconPacks.simple
+ContextMenuIcons.iconPacksList["Simple"] = ContextMenuIcons.iconPacks.simple
